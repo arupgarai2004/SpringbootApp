@@ -1,0 +1,6 @@
+com\kidzpurti\api\controller\dataController.class
+com\kidzpurti\api\Application.class
+com\kidzpurti\api\dao\entity\ProductEntity.class
+com\kidzpurti\api\dao\repository\ProductRepository.class
+com\kidzpurti\api\service\ProductService.class
+com\kidzpurti\api\dto\ProductRequest.class
